@@ -1,0 +1,6 @@
+a=(1,3,-5,0,6,12,4)
+print(a)
+b=list(a)
+del(b[3])
+c=tuple(b)
+print(c)
